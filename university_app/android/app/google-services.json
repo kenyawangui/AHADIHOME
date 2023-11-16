@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "802779324491",
+    "project_id": "homeassists-5a8f9",
+    "storage_bucket": "homeassists-5a8f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802779324491:android:c5af26be6b580809926dce",
+        "android_client_info": {
+          "package_name": "com.example.university_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAQxvKQ_YelRU8VvihqqZEcczUnmsCNxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
